@@ -29,8 +29,3 @@
 * 🔐 **[CrypticSafe](https://github.com/ClaudiuPerdevara/CrypticSafe)** - Python-based virtual vault utilizing AES encryption and 2FA (QR Codes) for secure file management.
 
 ---
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudiu-perdevara-b44261351)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cperdevara@gmail.com)
