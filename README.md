@@ -1,22 +1,32 @@
-# Hi there, I'm Claudiu! 👋
+# 👨‍💻 Claudiu Perdevară
 
-I'm a Computer Science student at "Alexandru Ioan Cuza" University of Iași, currently focusing on **Cybersecurity, Networking, and Backend Development**. I enjoy building secure applications, understanding how systems work under the hood, and consistently stepping out of my comfort zone.
+**BSc Computer Science Student @ UAIC | Cybersecurity Enthusiast | Backend Dev**
 
-### 🚀 What I'm up to:
-- 🎓 Studying CS at UAIC (2nd year)
-- 🔐 Focusing on Network Security, C/C++ architectures, and Cloud Services
-- 💡 Exploring new challenges in software development and algorithmic problem solving
+> *Passionate about building secure systems, solving algorithmic puzzles, and consistently stepping out of my comfort zone to learn new technologies.*
 
-### 🛠️ Tech Stack:
-**Languages:** ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-**Tools & Platforms:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+### 🛠️ Arsenal & Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,bash,git,firebase,html,css,sqlite,aws&theme=dark" />
+  </a>
+</p>
 
-### 📫 Let's connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudiu-perdevara-b44261351)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cperdevara@gmail.com)
+**Core Focus:** Network Security / TCP-IP / OOP / Data Structures / C & C++
+
+---
+
+### 📌 Current Status & Milestones
+* 🎓 **Academic:** 2nd-year CS Student at the Faculty of Computer Science (FII), Iasi.
+* 🔐 **Exploring:** Diving deep into Cryptography (AES), Ethical Hacking basics, and robust Software Architectures.
+* 🚀 **Building:** Everything from secure Python vaults with 2FA to full-fledged multiplayer Java Chess engines.
+* 🤝 **Team Player:** Active hackathon participant (FII Practic 2025) and strong believer in collaborative problem-solving.
+* ♟️ **Hobbies:** Chess enthusiast and tech explorer.
+
+---
+
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaudiuPerdevara&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Claudiu's GitHub Stats" height="150"/>
+</p>
