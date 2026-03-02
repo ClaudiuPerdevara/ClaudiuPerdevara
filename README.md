@@ -9,7 +9,7 @@
 ### 🛠️ Arsenal & Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,bash,git,firebase,html,css,sqlite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,html,css,sqlite&theme=dark" />
   </a>
 </p>
 
